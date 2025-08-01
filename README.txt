@@ -117,7 +117,7 @@ This system is designed for:
 - Literature review automation
 - Research trend analysis
 
-## Development Status
+## Development Status 
 
 This project represents an active research and development effort in automated materials informatics, combining state-of-the-art AI techniques with domain expertise in hydrogen storage materials.
 
